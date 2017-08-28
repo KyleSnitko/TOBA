@@ -1,8 +1,4 @@
-<%-- 
-    Document   : wrror_404
-    Created on : Aug 22, 2017, 5:47:48 PM
-    Author     : imkyl3
---%>
+<!-- Kyle Snitko 2349076 -->
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
